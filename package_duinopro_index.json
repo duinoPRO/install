@@ -12,7 +12,7 @@
         {
           "name": "duinoPRO AVR Boards",
           "architecture": "avr",
-          "version": “0.0.2”,
+          "version": "0.0.2",
           "category": "duinoPRO",
           "help": {
             "online": ""
