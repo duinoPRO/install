@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+		"name":"duinopro",
+		"maintainer":"duinoPRO",
+		"websiteURL":"http://duinopro.cc",
+		"email":"info@duinopro.cc",
+		"help":{
+			"online":"https://forums.duinopro.cc"
+		},
+      "platforms": [
+        {
+          "name": "duinoPRO AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "duinoPRO",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/duinoPRO/install/blob/master/duinopro.zip",
+          "archiveFileName": "duinopro.zip",
+          "checksum": "SHA-256:5871ae33f072d8b2ba7b933e4264b783cc85a454b9d590183c372602528765e5",
+          "size": "108838",
+          "boards": [
+			{ "name":"duinoPRO UNO" }
+          ],
+          "toolsDependencies": [
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
