@@ -20,7 +20,7 @@
           "url": "https://raw.githubusercontent.com/duinoPRO/install/master/duinopro.zip",
           "archiveFileName": "duinopro.zip",
           "checksum": "SHA-256:44cb5c216ff2934eb29cbbab66205cec9e6fd20bcc28641023a7caa4514053d1",
-          "size": "108838",
+          "size": "109948",
           "boards": [
 			{ "name":"duinoPRO UNO" }
           ],
