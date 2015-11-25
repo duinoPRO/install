@@ -19,7 +19,7 @@
           },
           "url": "https://raw.githubusercontent.com/duinoPRO/install/master/duinopro.zip",
           "archiveFileName": "duinopro.zip",
-          "checksum": "SHA-256:b69950c2e65b9fd8e81b6a7f6fc230db87ac9855ed57c4e4c555a52d048f0441",
+          "checksum": "SHA-256:44cb5c216ff2934eb29cbbab66205cec9e6fd20bcc28641023a7caa4514053d1",
           "size": "108838",
           "boards": [
 			{ "name":"duinoPRO UNO" }
