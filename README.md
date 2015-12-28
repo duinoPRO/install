@@ -4,7 +4,7 @@
 
 - Download and install the standard Arduino environment for your operating system. We have have known support so far for OS X and Windows 7.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software] (Arduino IDE).  
 
-**Note** that version 1.6.6 exhibits a known bug which effects duinoPRO.  We recommend downloading and installing 1.6.7.
+**Note** that version 1.6.6 exhibits a known bug that effects duinoPRO.  We recommend downloading and installing 1.6.7.
  
 - Start the Arduino IDE.
 - From the menu, select *File | Preferences* in Windows or *Arduino | Preferences* on OS X.
@@ -17,7 +17,7 @@
 - Download the duinoPRO firmware repository as a zip file from [https://github.com/duinoPRO/firmware] (Github).
 - Unarchive.  You only require the libraries directory so you may discard the rest.
 - Unzip the libraries zip file into: 
-*C:\Users\<yourusername>\Documents\Arduino\libraries* on Windows
+*C:\Users\\\<yourusername>\Documents\Arduino\libraries* on Windows
 or
 */Users/\<yourusername>/Documents/Arduino/libraries* on OS X
 - Restart the Arduino IDE.  
