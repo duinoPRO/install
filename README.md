@@ -2,7 +2,7 @@
 
 **Installing the duinoPRO firmware environment:**
 
-- Download and install the standard Arduino environment for your operating system. We have have known support so far for OS X and Windows 7.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software].  
+- Download and install the standard Arduino environment for your operating system. We have have known support so far for OS X and Windows 7.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software] (Arduino IDE).  
 
 **Note** that version 1.6.6 exhibits a known bug.  We recommend downloading and installing 1.6.7.
  
@@ -11,14 +11,14 @@
 - Add the following to *Additional Boards Manager URLs*: *https://raw.githubusercontent.com/duinoPRO/install/master/package_duinopro_index.json*.  Press ok.
 - From the menu, select *Tools | Board “xx” | Boards Manager*.
 - There should be an item *duinoPRO AVR Boards* (although it may take a little while to appear, while the json file is downloaded).  Select it and press the install button.  Wait while it installs.
-- When you exit this menu and click on Tools | Board “xx” again, you should see *duinoPRO Uno* in the list of available boards.
+- When you exit this menu and click on *Tools | Board “xx”* again, you should see *duinoPRO Uno* in the list of available boards.
 
 **Installing the libraries:**
-- Download the duinoPRO firmware repository as a zip file from [https://github.com/duinoPRO/firmware] (GitHub).
+- Download the duinoPRO firmware repository as a zip file from [https://github.com/duinoPRO/firmware] (Github).
 - Unarchive.  You only require the libraries directory so you may discard the rest.
 - Unzip the libraries zip file into: 
-*C:\Users\<yourusername>\Documents\Arduino\libraries* on Windows
+*C:\Users\\<yourusername>\Documents\Arduino\libraries* on Windows
 or
-*/Users/<yourusername>/Documents/Arduino/libraries* on OS X
+*/Users/\<yourusername>/Documents/Arduino/libraries* on OS X
 - Restart the Arduino IDE.  
 
