@@ -2,7 +2,7 @@
 
 **Installing the duinoPRO firmware environment:**
 
-- Download and install the standard Arduino environment for your operating system. We have have known support so far for OS X 10.11 and Windows 7 and 8.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software] (Arduino IDE).  
+- Download and install the standard Arduino environment for your operating system. We have known support so far for OS X 10.11 and Windows 7 and 8.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software] (Arduino IDE).  
 
 **Note** that version 1.6.6 exhibits a known bug that effects duinoPRO.  We recommend downloading and installing 1.6.7.
  
