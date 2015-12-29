@@ -16,7 +16,7 @@
 **Installing the libraries:**
 - Download the duinoPRO firmware repository as a zip file from [https://github.com/duinoPRO/firmware] (Github).
 - Unarchive.  You only require the libraries directory so you may discard the rest.
-- Unzip the libraries zip file into: 
+- Copy the contents of the libraries directory into: 
 <br>*C:\Users\\\<yourusername>\Documents\Arduino\libraries* on Windows
 or
 <br>*/Users/\<yourusername>/Documents/Arduino/libraries* on OS X
