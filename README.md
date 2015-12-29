@@ -20,5 +20,7 @@
 <br>*C:\Users\\\<yourusername>\Documents\Arduino\libraries* on Windows
 or
 <br>*/Users/\<yourusername>/Documents/Arduino/libraries* on OS X
-- Restart the Arduino IDE.  
+- Restart the Arduino IDE. 
+- The downloaded duinoPRO libraries should now appear under *Contributed libraries* when you click on *Sketch | Include Library*.  Click on them to include them in your sketch as per regular Arduino libraries. 
+- Example libraries should now be available under *Examples from Custom Libraries* when you click on *File | Examples*.  Click on one to open it in a new window as per regular Arduino example sketches.
 
