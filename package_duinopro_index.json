@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://raw.githubusercontent.com/duinoPRO/install/618f23d6686b5868c75594d4194d40548d1b5b5c/duinopro.zip",
+          "url": "https://raw.githubusercontent.com/duinoPRO/install/c9241cef82f30e0b1032e2bd5e9cd5cc57b6e115/duinopro.zip",
           "archiveFileName": "duinopro.zip",
-          "checksum": "SHA-256:8e2d4e03ae6fbb6681d4868f5cd391297aa0b966a0cc98ec8aacc942af8179de",
-          "size": "120386",
+          "checksum": "SHA-256:cdc0810dde61b173c82fe3573250b7d33a3897e4afd4518e9194ae1f15c12688",
+          "size": "117603",
           "boards": [
 			{ "name":"duinoPRO UNO" }
           ],
