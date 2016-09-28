@@ -2,7 +2,7 @@
 
 **Installing the duinoPRO firmware environment:**
 
-- Download and install the standard Arduino environment for your operating system. We have known support so far for OS X 10.11 and Windows 7 and 8.  The Arduino IDE download page is [https://www.arduino.cc/en/Main/Software] (Arduino IDE).  
+- Download and install the standard Arduino environment for your operating system. We have known support so far for OS X 10.11 and Windows 7 and 8.  The Arduino IDE download page is https://www.arduino.cc/en/Main/Software.  
 
 **Note** that version 1.6.6 exhibits a known bug that effects duinoPRO.  We recommend downloading and installing 1.6.7.
  
@@ -14,7 +14,7 @@
 - When you exit this menu and click on *Tools | Board “xx”* again, you should see *duinoPRO Uno* in the list of available boards.
 
 **Installing the libraries:**
-- Download the duinoPRO firmware repository as a zip file from [https://github.com/duinoPRO/firmware] (Github).
+- Download the duinoPRO firmware repository as a zip file from https://github.com/duinoPRO/firmware.
 - Unarchive.  You only require the libraries directory so you may discard the rest.
 - Copy the contents of the libraries directory into: 
 <br>*C:\Users\\\<yourusername>\Documents\Arduino\libraries* on Windows
