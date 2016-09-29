@@ -12,15 +12,15 @@
         {
           "name": "duinoPRO AVR Boards",
           "architecture": "avr",
-          "version": "0.0.4",
+          "version": "0.0.5",
           "category": "duinoPRO",
           "help": {
             "online": ""
           },
-          "url": "https://raw.githubusercontent.com/duinoPRO/install/07b671ab5f4c09231d19cc877c85864b5ef549ea/duinopro.zip",
-          "archiveFileName": "duinopro-0.0.4.zip",
-          "checksum": "SHA-256:ec258c6d4c3061be7d9c0be4441475d44f758b17004984cd7bb608effa16b1b3",
-          "size": "117603",
+          "url": "https://raw.githubusercontent.com/duinoPRO/install/e33bf49ea8e26a6abbea5828961a114960d06245/duinopro.zip",
+          "archiveFileName": "duinopro-0.0.5.zip",
+          "checksum": "SHA-256:38000f54274170741e0b48b792553260396f551264767ccfc021e9f7bf7d8938",
+          "size": "117454",
           "boards": [
 			{ "name":"duinoPRO UNO" }
           ],
