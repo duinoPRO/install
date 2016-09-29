@@ -31,4 +31,4 @@ or
 <br>*C:\Users\\\<yourusername>\AppData\Local\Arduino15\packages\duinopro\hardware\avr* on Windows
 or
 <br>*/Users/\<yourusername>/Library/Arduino15/packages/duinopro/hardware/avr* on OS X
-**Note that AppData\ and Library\ are hidden folders.** 
+<br>**Note that AppData\ and Library\ are hidden folders.** 
