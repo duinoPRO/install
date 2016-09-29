@@ -25,10 +25,6 @@ or
 - Example libraries should now be available under *Examples from Custom Libraries* when you click on *File | Examples*.  Click on one to open it in a new window as per regular Arduino example sketches.
 
 **Updating the duinoPRO drivers.**
-- As per the original installation instructions, from the menu, select *Tools | Board “xx” | Boards Manager*.
-- There should be an item *duinoPRO AVR Boards*.  Select it and press the install button.  Wait while it installs.
-- Delete the folder with the smaller version number from:
-<br>*C:\Users\\\<yourusername>\AppData\Local\Arduino15\packages\duinopro\hardware\avr* on Windows
-or
-<br>*/Users/\<yourusername>/Library/Arduino15/packages/duinopro/hardware/avr* on OS X
-<br>**Note that AppData\ and Library\ are hidden folders.** 
+- From the menu, select *Tools | Board “xx” | Boards Manager*.
+- There should be an item *duinoPRO AVR Boards*.  Select it and press the remove button.  Click "Yes".
+- Scroll down and find the *duinoPRO AVR Boards* item again.  Select it and press install.  Wait while it installs.
